@@ -1,1 +1,1 @@
-# DataMing_ScikitLearn
+# DataMining_ScikitLearn
